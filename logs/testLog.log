@@ -1,0 +1,1115 @@
+2024-02-15T13:29:43.364+09:00  INFO 11836 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 11836 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T13:29:43.365+09:00  INFO 11836 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T13:29:44.013+09:00  INFO 11836 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T13:29:44.022+09:00  INFO 11836 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T13:29:44.022+09:00  INFO 11836 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T13:29:44.070+09:00  INFO 11836 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T13:29:44.070+09:00  INFO 11836 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 673 ms
+2024-02-15T13:29:44.498+09:00  INFO 11836 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T13:29:44.505+09:00  INFO 11836 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.43 seconds (process running for 1.658)
+2024-02-15T13:30:39.543+09:00  INFO 11704 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 11704 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T13:30:39.544+09:00  INFO 11704 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T13:30:40.204+09:00  INFO 11704 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T13:30:40.212+09:00  INFO 11704 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T13:30:40.212+09:00  INFO 11704 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T13:30:40.257+09:00  INFO 11704 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T13:30:40.257+09:00  INFO 11704 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 679 ms
+2024-02-15T13:30:40.687+09:00  INFO 11704 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T13:30:40.694+09:00  INFO 11704 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.434 seconds (process running for 1.648)
+2024-02-15T13:30:46.094+09:00  INFO 11704 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T13:30:46.094+09:00  INFO 11704 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T13:30:46.095+09:00  INFO 11704 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T13:32:06.528+09:00  INFO 6312 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 6312 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T13:32:06.529+09:00  INFO 6312 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T13:32:07.177+09:00  INFO 6312 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T13:32:07.185+09:00  INFO 6312 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T13:32:07.185+09:00  INFO 6312 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T13:32:07.229+09:00  INFO 6312 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T13:32:07.230+09:00  INFO 6312 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 665 ms
+2024-02-15T13:32:07.672+09:00  INFO 6312 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T13:32:07.678+09:00  INFO 6312 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.446 seconds (process running for 1.661)
+2024-02-15T13:32:09.714+09:00  INFO 6312 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T13:32:09.715+09:00  INFO 6312 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T13:32:09.715+09:00  INFO 6312 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T13:33:03.005+09:00  INFO 5144 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 5144 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T13:33:03.007+09:00  INFO 5144 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T13:33:03.670+09:00  INFO 5144 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T13:33:03.678+09:00  INFO 5144 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T13:33:03.678+09:00  INFO 5144 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T13:33:03.723+09:00  INFO 5144 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T13:33:03.724+09:00  INFO 5144 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 681 ms
+2024-02-15T13:33:04.163+09:00  INFO 5144 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T13:33:04.170+09:00  INFO 5144 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.476 seconds (process running for 1.684)
+2024-02-15T13:33:20.214+09:00  INFO 5144 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T13:33:20.215+09:00  INFO 5144 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T13:33:20.215+09:00  INFO 5144 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T13:37:53.054+09:00  INFO 12148 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 12148 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T13:37:53.056+09:00  INFO 12148 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T13:37:53.750+09:00  INFO 12148 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T13:37:53.758+09:00  INFO 12148 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T13:37:53.758+09:00  INFO 12148 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T13:37:53.805+09:00  INFO 12148 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T13:37:53.806+09:00  INFO 12148 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 717 ms
+2024-02-15T13:37:54.238+09:00  WARN 12148 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2024-02-15T13:37:54.250+09:00  INFO 12148 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-02-15T13:37:54.272+09:00 ERROR 12148 --- [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 80 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 80 or configure this application to listen on another port.
+
+2024-02-15T13:37:57.188+09:00  INFO 14912 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 14912 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T13:37:57.190+09:00  INFO 14912 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T13:37:57.828+09:00  INFO 14912 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T13:37:57.836+09:00  INFO 14912 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T13:37:57.836+09:00  INFO 14912 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T13:37:57.882+09:00  INFO 14912 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T13:37:57.882+09:00  INFO 14912 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 659 ms
+2024-02-15T13:37:58.322+09:00  INFO 14912 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T13:37:58.328+09:00  INFO 14912 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.42 seconds (process running for 1.627)
+2024-02-15T13:38:01.210+09:00  INFO 14912 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T13:38:01.210+09:00  INFO 14912 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T13:38:01.210+09:00  INFO 14912 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T13:39:03.891+09:00  INFO 12816 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 12816 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T13:39:03.893+09:00  INFO 12816 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T13:39:04.618+09:00  INFO 12816 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T13:39:04.626+09:00  INFO 12816 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T13:39:04.626+09:00  INFO 12816 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T13:39:04.672+09:00  INFO 12816 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T13:39:04.673+09:00  INFO 12816 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 741 ms
+2024-02-15T13:39:05.163+09:00  INFO 12816 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T13:39:05.170+09:00  INFO 12816 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.573 seconds (process running for 1.798)
+2024-02-15T13:39:09.974+09:00  INFO 12816 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T13:39:09.974+09:00  INFO 12816 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T13:39:09.974+09:00  INFO 12816 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T13:48:05.595+09:00  INFO 16220 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 16220 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T13:48:05.597+09:00  INFO 16220 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T13:48:06.265+09:00  INFO 16220 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T13:48:06.274+09:00  INFO 16220 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T13:48:06.274+09:00  INFO 16220 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T13:48:06.316+09:00  INFO 16220 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T13:48:06.317+09:00  INFO 16220 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 689 ms
+2024-02-15T13:48:06.772+09:00  INFO 16220 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T13:48:06.780+09:00  INFO 16220 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.477 seconds (process running for 1.703)
+2024-02-15T13:48:13.272+09:00  INFO 16220 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T13:48:13.273+09:00  INFO 16220 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T13:48:13.273+09:00  INFO 16220 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:03:38.628+09:00  INFO 8088 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 8088 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:03:38.630+09:00  INFO 8088 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:03:39.276+09:00  INFO 8088 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:03:39.285+09:00  INFO 8088 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:03:39.285+09:00  INFO 8088 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:03:39.329+09:00  INFO 8088 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:03:39.330+09:00  INFO 8088 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 665 ms
+2024-02-15T14:03:39.789+09:00  INFO 8088 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:03:39.795+09:00  INFO 8088 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.455 seconds (process running for 1.678)
+2024-02-15T14:03:43.374+09:00  INFO 8088 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:03:43.374+09:00  INFO 8088 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:03:43.374+09:00  INFO 8088 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:03:59.256+09:00  INFO 9676 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 9676 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:03:59.258+09:00  INFO 9676 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:03:59.922+09:00  INFO 9676 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:03:59.930+09:00  INFO 9676 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:03:59.930+09:00  INFO 9676 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:03:59.973+09:00  INFO 9676 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:03:59.974+09:00  INFO 9676 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 673 ms
+2024-02-15T14:04:00.415+09:00  INFO 9676 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:04:00.421+09:00  INFO 9676 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.449 seconds (process running for 1.656)
+2024-02-15T14:04:03.518+09:00  INFO 9676 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:04:03.518+09:00  INFO 9676 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:04:03.519+09:00  INFO 9676 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:05:28.497+09:00  INFO 2800 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 2800 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:05:28.499+09:00  INFO 2800 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:05:29.149+09:00  INFO 2800 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:05:29.157+09:00  INFO 2800 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:05:29.157+09:00  INFO 2800 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:05:29.203+09:00  INFO 2800 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:05:29.203+09:00  INFO 2800 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 672 ms
+2024-02-15T14:05:29.645+09:00  INFO 2800 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:05:29.651+09:00  INFO 2800 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.442 seconds (process running for 1.667)
+2024-02-15T14:05:30.080+09:00  INFO 2800 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:05:30.080+09:00  INFO 2800 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:05:30.081+09:00  INFO 2800 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:05:57.759+09:00  INFO 14744 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 14744 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:05:57.761+09:00  INFO 14744 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:05:58.416+09:00  INFO 14744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:05:58.425+09:00  INFO 14744 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:05:58.425+09:00  INFO 14744 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:05:58.470+09:00  INFO 14744 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:05:58.470+09:00  INFO 14744 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 670 ms
+2024-02-15T14:05:58.907+09:00  INFO 14744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:05:58.914+09:00  INFO 14744 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.444 seconds (process running for 1.653)
+2024-02-15T14:05:58.957+09:00  INFO 14744 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:05:58.957+09:00  INFO 14744 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:05:58.958+09:00  INFO 14744 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:06:42.037+09:00  INFO 1444 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 1444 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:06:42.039+09:00  INFO 1444 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:06:42.683+09:00  INFO 1444 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:06:42.691+09:00  INFO 1444 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:06:42.691+09:00  INFO 1444 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:06:42.736+09:00  INFO 1444 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:06:42.736+09:00  INFO 1444 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 665 ms
+2024-02-15T14:06:43.174+09:00  INFO 1444 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:06:43.180+09:00  INFO 1444 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.428 seconds (process running for 1.641)
+2024-02-15T14:06:45.730+09:00  INFO 1444 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:06:45.730+09:00  INFO 1444 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:06:45.731+09:00  INFO 1444 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:11:31.506+09:00  INFO 8980 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 8980 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:11:31.508+09:00  INFO 8980 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:11:32.210+09:00  INFO 8980 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:11:32.218+09:00  INFO 8980 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:11:32.218+09:00  INFO 8980 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:11:32.264+09:00  INFO 8980 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:11:32.264+09:00  INFO 8980 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 721 ms
+2024-02-15T14:11:32.701+09:00  INFO 8980 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:11:32.708+09:00  INFO 8980 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.485 seconds (process running for 1.71)
+2024-02-15T14:11:35.977+09:00  INFO 8980 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:11:35.977+09:00  INFO 8980 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:11:35.978+09:00  INFO 8980 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:12:31.240+09:00  INFO 15272 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 15272 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:12:31.241+09:00  INFO 15272 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:12:31.916+09:00  INFO 15272 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:12:31.924+09:00  INFO 15272 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:12:31.925+09:00  INFO 15272 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:12:31.970+09:00  INFO 15272 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:12:31.970+09:00  INFO 15272 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 690 ms
+2024-02-15T14:12:32.405+09:00  INFO 15272 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:12:32.413+09:00  INFO 15272 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.466 seconds (process running for 1.677)
+2024-02-15T14:12:32.922+09:00  INFO 15272 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:12:32.922+09:00  INFO 15272 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:12:32.922+09:00  INFO 15272 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:12:34.147+09:00  WARN 15272 --- [http-nio-80-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-02-15T14:12:34.680+09:00  WARN 15272 --- [http-nio-80-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-02-15T14:12:35.063+09:00  WARN 15272 --- [http-nio-80-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-02-15T14:12:35.216+09:00  WARN 15272 --- [http-nio-80-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' is not supported]
+2024-02-15T14:14:00.092+09:00  INFO 11120 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 11120 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:14:00.094+09:00  INFO 11120 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:14:00.767+09:00  INFO 11120 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:14:00.776+09:00  INFO 11120 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:14:00.777+09:00  INFO 11120 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:14:00.824+09:00  INFO 11120 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:14:00.824+09:00  INFO 11120 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 694 ms
+2024-02-15T14:14:01.266+09:00  INFO 11120 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:14:01.272+09:00  INFO 11120 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.463 seconds (process running for 1.668)
+2024-02-15T14:14:10.472+09:00  INFO 11120 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:14:10.473+09:00  INFO 11120 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:14:10.473+09:00  INFO 11120 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:14:11.136+09:00  WARN 11120 --- [http-nio-80-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:14:11.960+09:00  WARN 11120 --- [http-nio-80-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:14:12.688+09:00  WARN 11120 --- [http-nio-80-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:16:36.151+09:00  INFO 13932 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 13932 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:16:36.153+09:00  INFO 13932 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:16:36.787+09:00  INFO 13932 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:16:36.796+09:00  INFO 13932 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:16:36.796+09:00  INFO 13932 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:16:36.838+09:00  INFO 13932 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:16:36.839+09:00  INFO 13932 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 654 ms
+2024-02-15T14:16:37.274+09:00  INFO 13932 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:16:37.280+09:00  INFO 13932 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.41 seconds (process running for 1.657)
+2024-02-15T14:16:39.798+09:00  INFO 13932 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:16:39.799+09:00  INFO 13932 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:16:39.799+09:00  INFO 13932 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:16:58.762+09:00  INFO 13788 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 13788 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:16:58.764+09:00  INFO 13788 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:16:59.431+09:00  INFO 13788 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:16:59.439+09:00  INFO 13788 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:16:59.439+09:00  INFO 13788 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:16:59.484+09:00  INFO 13788 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:16:59.484+09:00  INFO 13788 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 687 ms
+2024-02-15T14:16:59.920+09:00  INFO 13788 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:16:59.926+09:00  INFO 13788 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.453 seconds (process running for 1.669)
+2024-02-15T14:17:00.365+09:00  INFO 13788 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:17:00.365+09:00  INFO 13788 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:17:00.366+09:00  INFO 13788 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:17:00.948+09:00  WARN 13788 --- [http-nio-80-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:17:53.070+09:00  INFO 14348 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 14348 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:17:53.071+09:00  INFO 14348 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:17:53.704+09:00  INFO 14348 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:17:53.712+09:00  INFO 14348 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:17:53.712+09:00  INFO 14348 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:17:53.758+09:00  INFO 14348 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:17:53.758+09:00  INFO 14348 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 654 ms
+2024-02-15T14:17:54.187+09:00  INFO 14348 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:17:54.193+09:00  INFO 14348 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.417 seconds (process running for 1.63)
+2024-02-15T14:17:57.628+09:00  INFO 14348 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:17:57.629+09:00  INFO 14348 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:17:57.629+09:00  INFO 14348 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:17:58.159+09:00  WARN 14348 --- [http-nio-80-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:17:58.827+09:00  WARN 14348 --- [http-nio-80-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:17:59.424+09:00  WARN 14348 --- [http-nio-80-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:18:00.065+09:00  WARN 14348 --- [http-nio-80-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:18:53.737+09:00  INFO 10376 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 10376 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:18:53.739+09:00  INFO 10376 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:18:54.420+09:00  INFO 10376 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:18:54.428+09:00  INFO 10376 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:18:54.429+09:00  INFO 10376 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:18:54.474+09:00  INFO 10376 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:18:54.475+09:00  INFO 10376 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 693 ms
+2024-02-15T14:18:54.909+09:00  INFO 10376 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:18:54.916+09:00  INFO 10376 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.456 seconds (process running for 1.664)
+2024-02-15T14:18:56.012+09:00  INFO 10376 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:18:56.013+09:00  INFO 10376 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:18:56.015+09:00  INFO 10376 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:18:56.707+09:00  WARN 10376 --- [http-nio-80-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-02-15T14:18:57.208+09:00  WARN 10376 --- [http-nio-80-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-02-15T14:18:57.576+09:00  WARN 10376 --- [http-nio-80-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-02-15T14:18:57.775+09:00  WARN 10376 --- [http-nio-80-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-02-15T14:18:58.168+09:00  WARN 10376 --- [http-nio-80-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-02-15T14:19:28.824+09:00  INFO 4120 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 4120 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:19:28.826+09:00  INFO 4120 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:19:29.495+09:00  INFO 4120 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:19:29.503+09:00  INFO 4120 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:19:29.503+09:00  INFO 4120 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:19:29.548+09:00  INFO 4120 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:19:29.548+09:00  INFO 4120 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 689 ms
+2024-02-15T14:19:29.985+09:00  INFO 4120 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:19:29.992+09:00  INFO 4120 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.455 seconds (process running for 1.66)
+2024-02-15T14:19:32.030+09:00  INFO 4120 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:19:32.030+09:00  INFO 4120 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:19:32.031+09:00  INFO 4120 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:19:32.863+09:00  WARN 4120 --- [http-nio-80-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:19:33.472+09:00  WARN 4120 --- [http-nio-80-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:20:17.391+09:00  INFO 9812 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 9812 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:20:17.393+09:00  INFO 9812 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:20:18.040+09:00  INFO 9812 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:20:18.049+09:00  INFO 9812 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:20:18.049+09:00  INFO 9812 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:20:18.096+09:00  INFO 9812 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:20:18.097+09:00  INFO 9812 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 672 ms
+2024-02-15T14:20:18.536+09:00  INFO 9812 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:20:18.546+09:00  INFO 9812 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.44 seconds (process running for 1.668)
+2024-02-15T14:20:20.581+09:00  INFO 9812 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:20:20.581+09:00  INFO 9812 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:20:20.582+09:00  INFO 9812 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:20:21.131+09:00  WARN 9812 --- [http-nio-80-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:20:21.768+09:00  WARN 9812 --- [http-nio-80-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:20:30.790+09:00  INFO 4740 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 4740 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:20:30.791+09:00  INFO 4740 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:20:31.439+09:00  INFO 4740 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:20:31.447+09:00  INFO 4740 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:20:31.448+09:00  INFO 4740 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:20:31.492+09:00  INFO 4740 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:20:31.492+09:00  INFO 4740 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 669 ms
+2024-02-15T14:20:31.927+09:00  INFO 4740 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:20:31.934+09:00  INFO 4740 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.428 seconds (process running for 1.638)
+2024-02-15T14:20:32.097+09:00  INFO 4740 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:20:32.097+09:00  INFO 4740 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:20:32.098+09:00  INFO 4740 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:20:32.115+09:00  WARN 4740 --- [http-nio-80-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' is not supported]
+2024-02-15T14:20:33.272+09:00  WARN 4740 --- [http-nio-80-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PUT' is not supported]
+2024-02-15T14:20:36.284+09:00  WARN 4740 --- [http-nio-80-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:20:37.263+09:00  WARN 4740 --- [http-nio-80-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:20:37.864+09:00  WARN 4740 --- [http-nio-80-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:20:54.988+09:00  INFO 10512 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 10512 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:20:54.989+09:00  INFO 10512 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:20:55.625+09:00  INFO 10512 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:20:55.633+09:00  INFO 10512 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:20:55.633+09:00  INFO 10512 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:20:55.678+09:00  INFO 10512 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:20:55.679+09:00  INFO 10512 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 658 ms
+2024-02-15T14:20:56.114+09:00  INFO 10512 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:20:56.121+09:00  INFO 10512 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.418 seconds (process running for 1.629)
+2024-02-15T14:20:56.161+09:00  INFO 10512 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:20:56.161+09:00  INFO 10512 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:20:56.162+09:00  INFO 10512 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:20:57.248+09:00  WARN 10512 --- [http-nio-80-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:21:20.161+09:00  INFO 7896 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 7896 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:21:20.162+09:00  INFO 7896 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:21:20.795+09:00  INFO 7896 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:21:20.803+09:00  INFO 7896 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:21:20.803+09:00  INFO 7896 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:21:20.845+09:00  INFO 7896 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:21:20.846+09:00  INFO 7896 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 650 ms
+2024-02-15T14:21:21.279+09:00  INFO 7896 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:21:21.286+09:00  INFO 7896 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.408 seconds (process running for 1.613)
+2024-02-15T14:21:22.946+09:00  INFO 7896 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:21:22.947+09:00  INFO 7896 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:21:22.947+09:00  INFO 7896 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:21:23.423+09:00  WARN 7896 --- [http-nio-80-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:21:24.104+09:00  WARN 7896 --- [http-nio-80-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:21:24.728+09:00  WARN 7896 --- [http-nio-80-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:21:28.865+09:00  WARN 7896 --- [http-nio-80-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:21:50.108+09:00  INFO 4812 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 4812 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:21:50.110+09:00  INFO 4812 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:21:50.784+09:00  INFO 4812 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:21:50.792+09:00  INFO 4812 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:21:50.793+09:00  INFO 4812 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:21:50.841+09:00  INFO 4812 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:21:50.841+09:00  INFO 4812 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 699 ms
+2024-02-15T14:21:51.281+09:00  INFO 4812 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:21:51.288+09:00  INFO 4812 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.461 seconds (process running for 1.668)
+2024-02-15T14:21:51.494+09:00  INFO 4812 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:21:51.494+09:00  INFO 4812 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:21:51.495+09:00  INFO 4812 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:21:52.144+09:00  WARN 4812 --- [http-nio-80-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type int is not present]
+2024-02-15T14:22:38.861+09:00  INFO 14920 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 14920 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:22:38.862+09:00  INFO 14920 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:22:39.523+09:00  INFO 14920 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:22:39.531+09:00  INFO 14920 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:22:39.531+09:00  INFO 14920 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:22:39.574+09:00  INFO 14920 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:22:39.575+09:00  INFO 14920 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 681 ms
+2024-02-15T14:22:40.008+09:00  INFO 14920 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:22:40.014+09:00  INFO 14920 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.431 seconds (process running for 1.638)
+2024-02-15T14:22:42.232+09:00  INFO 14920 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:22:42.232+09:00  INFO 14920 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:22:42.233+09:00  INFO 14920 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:23:19.972+09:00  INFO 15080 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 15080 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:23:19.974+09:00  INFO 15080 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:23:20.661+09:00  INFO 15080 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:23:20.669+09:00  INFO 15080 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:23:20.669+09:00  INFO 15080 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:23:20.714+09:00  INFO 15080 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:23:20.715+09:00  INFO 15080 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 700 ms
+2024-02-15T14:23:21.157+09:00  INFO 15080 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:23:21.163+09:00  INFO 15080 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.481 seconds (process running for 1.689)
+2024-02-15T14:23:22.565+09:00  INFO 15080 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:23:22.566+09:00  INFO 15080 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:23:22.566+09:00  INFO 15080 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:24:33.310+09:00  INFO 10192 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 10192 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:24:33.312+09:00  INFO 10192 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:24:33.949+09:00  INFO 10192 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:24:33.958+09:00  INFO 10192 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:24:33.958+09:00  INFO 10192 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:24:34.003+09:00  INFO 10192 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:24:34.004+09:00  INFO 10192 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 659 ms
+2024-02-15T14:24:34.442+09:00  INFO 10192 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:24:34.449+09:00  INFO 10192 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.423 seconds (process running for 1.631)
+2024-02-15T14:24:38.358+09:00  INFO 10192 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:24:38.359+09:00  INFO 10192 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:24:38.360+09:00  INFO 10192 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:31:51.957+09:00  INFO 3352 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 3352 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:31:51.960+09:00  INFO 3352 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:31:52.605+09:00  INFO 3352 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:31:52.614+09:00  INFO 3352 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:31:52.614+09:00  INFO 3352 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:31:52.659+09:00  INFO 3352 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:31:52.660+09:00  INFO 3352 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 661 ms
+2024-02-15T14:31:53.099+09:00  INFO 3352 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:31:53.104+09:00  INFO 3352 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.431 seconds (process running for 1.641)
+2024-02-15T14:36:37.996+09:00  INFO 15316 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 15316 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:36:37.998+09:00  INFO 15316 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:36:38.659+09:00  INFO 15316 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:36:38.667+09:00  INFO 15316 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:36:38.667+09:00  INFO 15316 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:36:38.714+09:00  INFO 15316 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:36:38.714+09:00  INFO 15316 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 685 ms
+2024-02-15T14:36:39.185+09:00  INFO 15316 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:36:39.192+09:00  INFO 15316 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.501 seconds (process running for 1.708)
+2024-02-15T14:36:41.360+09:00  INFO 15316 --- [http-nio-80-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:36:41.361+09:00  INFO 15316 --- [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:36:41.361+09:00  INFO 15316 --- [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:38:22.567+09:00  INFO 4124 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 4124 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:38:22.569+09:00  INFO 4124 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:38:23.237+09:00  INFO 4124 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:38:23.245+09:00  INFO 4124 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:38:23.245+09:00  INFO 4124 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:38:23.288+09:00  INFO 4124 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:38:23.288+09:00  INFO 4124 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 685 ms
+2024-02-15T14:38:23.725+09:00  INFO 4124 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:38:23.732+09:00  INFO 4124 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.449 seconds (process running for 1.658)
+2024-02-15T14:38:26.692+09:00  INFO 4124 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:38:26.693+09:00  INFO 4124 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:38:26.693+09:00  INFO 4124 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:38:47.977+09:00  INFO 9000 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 9000 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:38:47.979+09:00  INFO 9000 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:38:48.638+09:00  INFO 9000 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:38:48.647+09:00  INFO 9000 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:38:48.647+09:00  INFO 9000 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:38:48.699+09:00  INFO 9000 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:38:48.699+09:00  INFO 9000 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 688 ms
+2024-02-15T14:38:49.162+09:00  INFO 9000 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:38:49.169+09:00  INFO 9000 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.473 seconds (process running for 1.684)
+2024-02-15T14:38:56.743+09:00  INFO 9000 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:38:56.743+09:00  INFO 9000 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:38:56.744+09:00  INFO 9000 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:39:24.188+09:00  WARN 9000 --- [http-nio-80-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-02-15T14:39:24.855+09:00  WARN 9000 --- [http-nio-80-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-02-15T14:39:49.999+09:00  INFO 16256 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 16256 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:39:50.001+09:00  INFO 16256 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:39:50.685+09:00  INFO 16256 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:39:50.693+09:00  INFO 16256 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:39:50.693+09:00  INFO 16256 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:39:50.738+09:00  INFO 16256 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:39:50.739+09:00  INFO 16256 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 705 ms
+2024-02-15T14:39:51.205+09:00  INFO 16256 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:39:51.216+09:00  INFO 16256 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.489 seconds (process running for 1.699)
+2024-02-15T14:39:52.163+09:00  INFO 16256 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:39:52.164+09:00  INFO 16256 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:39:52.164+09:00  INFO 16256 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:40:06.559+09:00  INFO 4396 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 4396 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:40:06.560+09:00  INFO 4396 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:40:07.230+09:00  INFO 4396 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:40:07.238+09:00  INFO 4396 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:40:07.238+09:00  INFO 4396 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:40:07.280+09:00  INFO 4396 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:40:07.281+09:00  INFO 4396 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 689 ms
+2024-02-15T14:40:07.722+09:00  INFO 4396 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:40:07.728+09:00  INFO 4396 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.461 seconds (process running for 1.668)
+2024-02-15T14:40:07.870+09:00  INFO 4396 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:40:07.871+09:00  INFO 4396 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:40:07.871+09:00  INFO 4396 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:40:19.248+09:00  INFO 12304 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 12304 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:40:19.250+09:00  INFO 12304 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:40:19.956+09:00  INFO 12304 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:40:19.964+09:00  INFO 12304 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:40:19.965+09:00  INFO 12304 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:40:20.008+09:00  INFO 12304 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:40:20.008+09:00  INFO 12304 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 725 ms
+2024-02-15T14:40:20.444+09:00  INFO 12304 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:40:20.451+09:00  INFO 12304 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.484 seconds (process running for 1.69)
+2024-02-15T14:40:20.550+09:00  INFO 12304 --- [http-nio-80-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:40:20.550+09:00  INFO 12304 --- [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:40:20.551+09:00  INFO 12304 --- [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:41:03.096+09:00  INFO 16344 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 16344 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:41:03.097+09:00  INFO 16344 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:41:03.733+09:00  INFO 16344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:41:03.742+09:00  INFO 16344 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:41:03.742+09:00  INFO 16344 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:41:03.787+09:00  INFO 16344 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:41:03.788+09:00  INFO 16344 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 657 ms
+2024-02-15T14:41:04.223+09:00  INFO 16344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:41:04.230+09:00  INFO 16344 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.422 seconds (process running for 1.648)
+2024-02-15T14:41:06.473+09:00  INFO 16344 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:41:06.473+09:00  INFO 16344 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:41:06.473+09:00  INFO 16344 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:45:02.259+09:00  INFO 15756 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 15756 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:45:02.261+09:00  INFO 15756 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:45:02.893+09:00  INFO 15756 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:45:02.901+09:00  INFO 15756 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:45:02.902+09:00  INFO 15756 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:45:02.946+09:00  INFO 15756 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:45:02.946+09:00  INFO 15756 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 653 ms
+2024-02-15T14:45:03.246+09:00  WARN 15756 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'todoController' method 
+com.projectajax.TodoController#getBno()
+to {GET [/show/get.do]}: There is already 'todoController' bean method
+com.projectajax.TodoController#show(Integer) mapped.
+2024-02-15T14:45:03.248+09:00  INFO 15756 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2024-02-15T14:45:03.255+09:00  INFO 15756 --- [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-02-15T14:45:03.266+09:00 ERROR 15756 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'todoController' method 
+com.projectajax.TodoController#getBno()
+to {GET [/show/get.do]}: There is already 'todoController' bean method
+com.projectajax.TodoController#show(Integer) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1773) ~[spring-beans-6.1.3.jar:6.1.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599) ~[spring-beans-6.1.3.jar:6.1.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521) ~[spring-beans-6.1.3.jar:6.1.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325) ~[spring-beans-6.1.3.jar:6.1.3]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-6.1.3.jar:6.1.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323) ~[spring-beans-6.1.3.jar:6.1.3]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-6.1.3.jar:6.1.3]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975) ~[spring-beans-6.1.3.jar:6.1.3]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:959) ~[spring-context-6.1.3.jar:6.1.3]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:624) ~[spring-context-6.1.3.jar:6.1.3]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146) ~[spring-boot-3.2.2.jar:3.2.2]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754) ~[spring-boot-3.2.2.jar:3.2.2]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456) ~[spring-boot-3.2.2.jar:3.2.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:334) ~[spring-boot-3.2.2.jar:3.2.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-3.2.2.jar:3.2.2]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343) ~[spring-boot-3.2.2.jar:3.2.2]
+	at com.projectajax.ProjectajaxApplication.main(ProjectajaxApplication.java:10) ~[main/:na]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'todoController' method 
+com.projectajax.TodoController#getBno()
+to {GET [/show/get.do]}: There is already 'todoController' bean method
+com.projectajax.TodoController#show(Integer) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:671) ~[spring-webmvc-6.1.3.jar:6.1.3]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:633) ~[spring-webmvc-6.1.3.jar:6.1.3]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:331) ~[spring-webmvc-6.1.3.jar:6.1.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:486) ~[spring-webmvc-6.1.3.jar:6.1.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:79) ~[spring-webmvc-6.1.3.jar:6.1.3]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$2(AbstractHandlerMethodMapping.java:298) ~[spring-webmvc-6.1.3.jar:6.1.3]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[na:na]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:296) ~[spring-webmvc-6.1.3.jar:6.1.3]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265) ~[spring-webmvc-6.1.3.jar:6.1.3]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224) ~[spring-webmvc-6.1.3.jar:6.1.3]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212) ~[spring-webmvc-6.1.3.jar:6.1.3]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:233) ~[spring-webmvc-6.1.3.jar:6.1.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1820) ~[spring-beans-6.1.3.jar:6.1.3]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1769) ~[spring-beans-6.1.3.jar:6.1.3]
+	... 16 common frames omitted
+
+2024-02-15T14:45:52.699+09:00  INFO 15632 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 15632 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:45:52.701+09:00  INFO 15632 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:45:53.334+09:00  INFO 15632 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:45:53.342+09:00  INFO 15632 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:45:53.342+09:00  INFO 15632 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:45:53.387+09:00  INFO 15632 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:45:53.387+09:00  INFO 15632 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 653 ms
+2024-02-15T14:45:53.822+09:00  INFO 15632 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:45:53.828+09:00  INFO 15632 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.423 seconds (process running for 1.627)
+2024-02-15T14:45:58.784+09:00  INFO 15632 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:45:58.784+09:00  INFO 15632 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:45:58.784+09:00  INFO 15632 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:46:22.934+09:00  INFO 10724 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 10724 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:46:22.936+09:00  INFO 10724 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:46:23.634+09:00  INFO 10724 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:46:23.643+09:00  INFO 10724 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:46:23.643+09:00  INFO 10724 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:46:23.688+09:00  INFO 10724 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:46:23.689+09:00  INFO 10724 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 721 ms
+2024-02-15T14:46:24.127+09:00  INFO 10724 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:46:24.134+09:00  INFO 10724 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.478 seconds (process running for 1.689)
+2024-02-15T14:46:24.901+09:00  INFO 10724 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:46:24.902+09:00  INFO 10724 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:46:24.902+09:00  INFO 10724 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:49:08.820+09:00  INFO 15032 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 15032 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:49:08.822+09:00  INFO 15032 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:49:09.460+09:00  INFO 15032 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:49:09.468+09:00  INFO 15032 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:49:09.468+09:00  INFO 15032 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:49:09.513+09:00  INFO 15032 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:49:09.513+09:00  INFO 15032 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 660 ms
+2024-02-15T14:49:09.965+09:00  INFO 15032 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:49:09.972+09:00  INFO 15032 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.431 seconds (process running for 1.635)
+2024-02-15T14:49:10.683+09:00  INFO 15032 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:49:10.683+09:00  INFO 15032 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:49:10.684+09:00  INFO 15032 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:49:57.987+09:00  INFO 10384 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 10384 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:49:57.988+09:00  INFO 10384 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:49:58.648+09:00  INFO 10384 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:49:58.656+09:00  INFO 10384 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:49:58.656+09:00  INFO 10384 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:49:58.702+09:00  INFO 10384 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:49:58.702+09:00  INFO 10384 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 677 ms
+2024-02-15T14:49:59.144+09:00  INFO 10384 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:49:59.151+09:00  INFO 10384 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.442 seconds (process running for 1.665)
+2024-02-15T14:49:59.186+09:00  INFO 10384 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:49:59.186+09:00  INFO 10384 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:49:59.187+09:00  INFO 10384 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:50:12.926+09:00  INFO 3580 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 3580 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:50:12.929+09:00  INFO 3580 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:50:13.639+09:00  INFO 3580 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:50:13.647+09:00  INFO 3580 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:50:13.648+09:00  INFO 3580 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:50:13.692+09:00  INFO 3580 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:50:13.692+09:00  INFO 3580 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 722 ms
+2024-02-15T14:50:14.129+09:00  INFO 3580 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:50:14.136+09:00  INFO 3580 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.506 seconds (process running for 1.72)
+2024-02-15T14:50:16.497+09:00  INFO 3580 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:50:16.497+09:00  INFO 3580 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:50:16.498+09:00  INFO 3580 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:50:30.412+09:00  INFO 8388 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 8388 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:50:30.414+09:00  INFO 8388 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:50:31.070+09:00  INFO 8388 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:50:31.078+09:00  INFO 8388 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:50:31.079+09:00  INFO 8388 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:50:31.123+09:00  INFO 8388 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:50:31.123+09:00  INFO 8388 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 677 ms
+2024-02-15T14:50:31.548+09:00  INFO 8388 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:50:31.554+09:00  INFO 8388 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.424 seconds (process running for 1.639)
+2024-02-15T14:50:33.267+09:00  INFO 8388 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:50:33.267+09:00  INFO 8388 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:50:33.268+09:00  INFO 8388 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:50:54.307+09:00  INFO 8404 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 8404 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:50:54.308+09:00  INFO 8404 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:50:54.969+09:00  INFO 8404 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:50:54.978+09:00  INFO 8404 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:50:54.978+09:00  INFO 8404 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:50:55.023+09:00  INFO 8404 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:50:55.023+09:00  INFO 8404 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 681 ms
+2024-02-15T14:50:55.450+09:00  INFO 8404 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:50:55.456+09:00  INFO 8404 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.427 seconds (process running for 1.635)
+2024-02-15T14:50:57.505+09:00  INFO 8404 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:50:57.505+09:00  INFO 8404 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:50:57.506+09:00  INFO 8404 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:52:05.627+09:00  INFO 11272 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 11272 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:52:05.628+09:00  INFO 11272 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:52:06.288+09:00  INFO 11272 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:52:06.296+09:00  INFO 11272 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:52:06.296+09:00  INFO 11272 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:52:06.340+09:00  INFO 11272 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:52:06.340+09:00  INFO 11272 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 680 ms
+2024-02-15T14:52:06.770+09:00  INFO 11272 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:52:06.777+09:00  INFO 11272 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.423 seconds (process running for 1.63)
+2024-02-15T14:52:55.489+09:00  INFO 5616 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 5616 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:52:55.490+09:00  INFO 5616 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:52:56.142+09:00  INFO 5616 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:52:56.151+09:00  INFO 5616 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:52:56.151+09:00  INFO 5616 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:52:56.195+09:00  INFO 5616 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:52:56.196+09:00  INFO 5616 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 673 ms
+2024-02-15T14:52:56.640+09:00  INFO 5616 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:52:56.647+09:00  INFO 5616 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.44 seconds (process running for 1.663)
+2024-02-15T14:53:00.582+09:00  INFO 5616 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:53:00.583+09:00  INFO 5616 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:53:00.583+09:00  INFO 5616 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:53:32.041+09:00  INFO 16148 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 16148 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:53:32.043+09:00  INFO 16148 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:53:32.683+09:00  INFO 16148 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:53:32.692+09:00  INFO 16148 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:53:32.692+09:00  INFO 16148 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:53:32.738+09:00  INFO 16148 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:53:32.738+09:00  INFO 16148 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 664 ms
+2024-02-15T14:53:33.177+09:00  INFO 16148 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:53:33.184+09:00  INFO 16148 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.435 seconds (process running for 1.657)
+2024-02-15T14:53:34.975+09:00  INFO 16148 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:53:34.975+09:00  INFO 16148 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:53:34.976+09:00  INFO 16148 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T14:53:57.155+09:00  INFO 5052 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 5052 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:53:57.157+09:00  INFO 5052 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:53:57.799+09:00  INFO 5052 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:53:57.808+09:00  INFO 5052 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:53:57.808+09:00  INFO 5052 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:53:57.853+09:00  INFO 5052 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:53:57.854+09:00  INFO 5052 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 665 ms
+2024-02-15T14:53:58.289+09:00  INFO 5052 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:53:58.296+09:00  INFO 5052 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.423 seconds (process running for 1.652)
+2024-02-15T14:53:58.522+09:00  INFO 5052 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:53:58.523+09:00  INFO 5052 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:53:58.523+09:00  INFO 5052 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:56:05.231+09:00  INFO 14744 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 14744 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:56:05.233+09:00  INFO 14744 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:56:05.876+09:00  INFO 14744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:56:05.884+09:00  INFO 14744 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:56:05.885+09:00  INFO 14744 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:56:05.928+09:00  INFO 14744 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:56:05.929+09:00  INFO 14744 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 660 ms
+2024-02-15T14:56:06.362+09:00  INFO 14744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:56:06.369+09:00  INFO 14744 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.414 seconds (process running for 1.623)
+2024-02-15T14:56:12.188+09:00  INFO 14744 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:56:12.188+09:00  INFO 14744 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:56:12.188+09:00  INFO 14744 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T14:56:22.474+09:00  INFO 7324 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 7324 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T14:56:22.476+09:00  INFO 7324 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T14:56:23.108+09:00  INFO 7324 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T14:56:23.116+09:00  INFO 7324 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T14:56:23.117+09:00  INFO 7324 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T14:56:23.161+09:00  INFO 7324 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T14:56:23.161+09:00  INFO 7324 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 654 ms
+2024-02-15T14:56:23.595+09:00  INFO 7324 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T14:56:23.601+09:00  INFO 7324 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.412 seconds (process running for 1.638)
+2024-02-15T14:56:25.311+09:00  INFO 7324 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T14:56:25.311+09:00  INFO 7324 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T14:56:25.312+09:00  INFO 7324 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:01:17.816+09:00  INFO 15076 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 15076 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:01:17.818+09:00  INFO 15076 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:01:18.508+09:00  INFO 15076 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:01:18.516+09:00  INFO 15076 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:01:18.516+09:00  INFO 15076 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:01:18.560+09:00  INFO 15076 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:01:18.561+09:00  INFO 15076 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 711 ms
+2024-02-15T15:01:19.004+09:00  INFO 15076 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:01:19.011+09:00  INFO 15076 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.481 seconds (process running for 1.697)
+2024-02-15T15:01:19.065+09:00  INFO 15076 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:01:19.066+09:00  INFO 15076 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:01:19.067+09:00  INFO 15076 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:03:36.233+09:00  INFO 2820 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 2820 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:03:36.235+09:00  INFO 2820 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:03:36.923+09:00  INFO 2820 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:03:36.931+09:00  INFO 2820 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:03:36.931+09:00  INFO 2820 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:03:36.976+09:00  INFO 2820 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:03:36.976+09:00  INFO 2820 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 704 ms
+2024-02-15T15:03:37.406+09:00  INFO 2820 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:03:37.412+09:00  INFO 2820 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.458 seconds (process running for 1.674)
+2024-02-15T15:03:37.590+09:00  INFO 2820 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:03:37.590+09:00  INFO 2820 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:03:37.591+09:00  INFO 2820 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:04:39.013+09:00  INFO 2448 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 2448 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:04:39.015+09:00  INFO 2448 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:04:39.679+09:00  INFO 2448 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:04:39.687+09:00  INFO 2448 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:04:39.687+09:00  INFO 2448 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:04:39.730+09:00  INFO 2448 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:04:39.731+09:00  INFO 2448 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 684 ms
+2024-02-15T15:04:40.162+09:00  INFO 2448 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:04:40.169+09:00  INFO 2448 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.433 seconds (process running for 1.64)
+2024-02-15T15:11:40.555+09:00  INFO 2448 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:11:40.555+09:00  INFO 2448 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:11:40.558+09:00  INFO 2448 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-02-15T15:16:26.589+09:00  INFO 12872 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 12872 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:16:26.591+09:00  INFO 12872 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:16:27.258+09:00  INFO 12872 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:16:27.267+09:00  INFO 12872 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:16:27.267+09:00  INFO 12872 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:16:27.310+09:00  INFO 12872 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:16:27.310+09:00  INFO 12872 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 687 ms
+2024-02-15T15:16:27.750+09:00  INFO 12872 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:16:27.756+09:00  INFO 12872 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.447 seconds (process running for 1.654)
+2024-02-15T15:17:14.399+09:00  INFO 12872 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:17:14.399+09:00  INFO 12872 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:17:14.400+09:00  INFO 12872 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:21:07.038+09:00  INFO 8404 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 8404 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:21:07.040+09:00  INFO 8404 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:21:07.711+09:00  INFO 8404 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:21:07.720+09:00  INFO 8404 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:21:07.720+09:00  INFO 8404 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:21:07.765+09:00  INFO 8404 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:21:07.766+09:00  INFO 8404 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 691 ms
+2024-02-15T15:21:08.199+09:00  INFO 8404 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:21:08.205+09:00  INFO 8404 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.447 seconds (process running for 1.674)
+2024-02-15T15:21:12.791+09:00  INFO 8404 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:21:12.792+09:00  INFO 8404 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:21:12.792+09:00  INFO 8404 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T15:21:29.121+09:00  INFO 6776 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 6776 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:21:29.123+09:00  INFO 6776 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:21:29.818+09:00  INFO 6776 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:21:29.826+09:00  INFO 6776 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:21:29.827+09:00  INFO 6776 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:21:29.869+09:00  INFO 6776 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:21:29.870+09:00  INFO 6776 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 714 ms
+2024-02-15T15:21:30.316+09:00  INFO 6776 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:21:30.323+09:00  INFO 6776 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.484 seconds (process running for 1.71)
+2024-02-15T15:21:30.497+09:00  INFO 6776 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:21:30.497+09:00  INFO 6776 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:21:30.498+09:00  INFO 6776 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:23:53.257+09:00  INFO 6168 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 6168 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:23:53.259+09:00  INFO 6168 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:23:53.925+09:00  INFO 6168 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:23:53.933+09:00  INFO 6168 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:23:53.933+09:00  INFO 6168 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:23:53.977+09:00  INFO 6168 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:23:53.978+09:00  INFO 6168 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 686 ms
+2024-02-15T15:23:54.412+09:00  INFO 6168 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:23:54.418+09:00  INFO 6168 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.443 seconds (process running for 1.656)
+2024-02-15T15:23:58.401+09:00  INFO 6168 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:23:58.401+09:00  INFO 6168 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:23:58.402+09:00  INFO 6168 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:24:58.031+09:00  INFO 11212 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 11212 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:24:58.034+09:00  INFO 11212 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:24:58.697+09:00  INFO 11212 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:24:58.706+09:00  INFO 11212 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:24:58.706+09:00  INFO 11212 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:24:58.750+09:00  INFO 11212 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:24:58.751+09:00  INFO 11212 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 680 ms
+2024-02-15T15:24:59.198+09:00  INFO 11212 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:24:59.204+09:00  INFO 11212 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.46 seconds (process running for 1.677)
+2024-02-15T15:24:59.814+09:00  INFO 11212 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:24:59.814+09:00  INFO 11212 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:24:59.815+09:00  INFO 11212 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T15:25:26.761+09:00  INFO 10928 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 10928 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:25:26.763+09:00  INFO 10928 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:25:27.475+09:00  INFO 10928 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:25:27.483+09:00  INFO 10928 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:25:27.483+09:00  INFO 10928 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:25:27.526+09:00  INFO 10928 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:25:27.526+09:00  INFO 10928 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 731 ms
+2024-02-15T15:25:27.991+09:00  INFO 10928 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:25:27.998+09:00  INFO 10928 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.517 seconds (process running for 1.728)
+2024-02-15T15:25:28.559+09:00  INFO 10928 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:25:28.559+09:00  INFO 10928 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:25:28.560+09:00  INFO 10928 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:25:57.273+09:00  INFO 5744 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 5744 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:25:57.275+09:00  INFO 5744 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:25:57.978+09:00  INFO 5744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:25:57.987+09:00  INFO 5744 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:25:57.987+09:00  INFO 5744 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:25:58.035+09:00  INFO 5744 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:25:58.036+09:00  INFO 5744 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 729 ms
+2024-02-15T15:25:58.495+09:00  INFO 5744 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:25:58.502+09:00  INFO 5744 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.51 seconds (process running for 1.725)
+2024-02-15T15:25:59.059+09:00  INFO 5744 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:25:59.059+09:00  INFO 5744 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:25:59.060+09:00  INFO 5744 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:27:01.382+09:00  INFO 15344 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 15344 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:27:01.384+09:00  INFO 15344 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:27:02.030+09:00  INFO 15344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:27:02.039+09:00  INFO 15344 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:27:02.039+09:00  INFO 15344 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:27:02.085+09:00  INFO 15344 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:27:02.086+09:00  INFO 15344 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 669 ms
+2024-02-15T15:27:02.520+09:00  INFO 15344 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:27:02.526+09:00  INFO 15344 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.424 seconds (process running for 1.631)
+2024-02-15T15:27:05.934+09:00  INFO 15344 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:27:05.935+09:00  INFO 15344 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:27:05.936+09:00  INFO 15344 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:27:40.476+09:00  INFO 4292 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 4292 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:27:40.477+09:00  INFO 4292 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:27:41.168+09:00  INFO 4292 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:27:41.177+09:00  INFO 4292 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:27:41.177+09:00  INFO 4292 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:27:41.240+09:00  INFO 4292 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:27:41.241+09:00  INFO 4292 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 732 ms
+2024-02-15T15:27:41.707+09:00  INFO 4292 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:27:41.713+09:00  INFO 4292 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.523 seconds (process running for 1.743)
+2024-02-15T15:27:43.463+09:00  INFO 4292 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:27:43.464+09:00  INFO 4292 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:27:43.464+09:00  INFO 4292 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T15:28:32.151+09:00  INFO 7060 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 7060 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:28:32.153+09:00  INFO 7060 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:28:32.834+09:00  INFO 7060 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:28:32.842+09:00  INFO 7060 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:28:32.842+09:00  INFO 7060 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:28:32.886+09:00  INFO 7060 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:28:32.887+09:00  INFO 7060 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 701 ms
+2024-02-15T15:28:33.329+09:00  INFO 7060 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:28:33.336+09:00  INFO 7060 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.471 seconds (process running for 1.69)
+2024-02-15T15:28:33.502+09:00  INFO 7060 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:28:33.502+09:00  INFO 7060 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:28:33.502+09:00  INFO 7060 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T15:28:50.089+09:00  INFO 13804 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 13804 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:28:50.091+09:00  INFO 13804 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:28:50.757+09:00  INFO 13804 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:28:50.765+09:00  INFO 13804 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:28:50.765+09:00  INFO 13804 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:28:50.810+09:00  INFO 13804 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:28:50.810+09:00  INFO 13804 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 686 ms
+2024-02-15T15:28:51.252+09:00  INFO 13804 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:28:51.259+09:00  INFO 13804 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.453 seconds (process running for 1.663)
+2024-02-15T15:28:52.958+09:00  INFO 13804 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:28:52.959+09:00  INFO 13804 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:28:52.959+09:00  INFO 13804 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T15:29:06.047+09:00  INFO 11236 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 11236 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:29:06.049+09:00  INFO 11236 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:29:06.717+09:00  INFO 11236 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:29:06.725+09:00  INFO 11236 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:29:06.726+09:00  INFO 11236 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:29:06.771+09:00  INFO 11236 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:29:06.771+09:00  INFO 11236 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 690 ms
+2024-02-15T15:29:07.209+09:00  INFO 11236 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:29:07.217+09:00  INFO 11236 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.455 seconds (process running for 1.666)
+2024-02-15T15:29:09.101+09:00  INFO 11236 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:29:09.102+09:00  INFO 11236 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:29:09.103+09:00  INFO 11236 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:29:10.196+09:00  INFO 11236 --- [http-nio-80-exec-5] o.apache.coyote.http11.Http11Processor   : Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+
+java.lang.IllegalArgumentException: Invalid character found in the request target [/show.html?bno=${i}; ]. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:482) ~[tomcat-embed-core-10.1.18.jar:10.1.18]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:264) ~[tomcat-embed-core-10.1.18.jar:10.1.18]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.18.jar:10.1.18]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896) ~[tomcat-embed-core-10.1.18.jar:10.1.18]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744) ~[tomcat-embed-core-10.1.18.jar:10.1.18]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.18.jar:10.1.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-10.1.18.jar:10.1.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.18.jar:10.1.18]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-10.1.18.jar:10.1.18]
+	at java.base/java.lang.Thread.run(Thread.java:840) ~[na:na]
+
+2024-02-15T15:29:22.613+09:00  INFO 11304 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 11304 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:29:22.615+09:00  INFO 11304 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:29:23.288+09:00  INFO 11304 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:29:23.296+09:00  INFO 11304 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:29:23.297+09:00  INFO 11304 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:29:23.341+09:00  INFO 11304 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:29:23.341+09:00  INFO 11304 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 694 ms
+2024-02-15T15:29:23.784+09:00  INFO 11304 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:29:23.791+09:00  INFO 11304 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.47 seconds (process running for 1.677)
+2024-02-15T15:29:24.257+09:00  INFO 11304 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:29:24.257+09:00  INFO 11304 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:29:24.258+09:00  INFO 11304 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:29:24.918+09:00  WARN 11304 --- [http-nio-80-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; For input string: "3;"]
+2024-02-15T15:30:05.794+09:00  INFO 12700 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 12700 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:30:05.796+09:00  INFO 12700 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:30:06.436+09:00  INFO 12700 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:30:06.444+09:00  INFO 12700 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:30:06.444+09:00  INFO 12700 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:30:06.488+09:00  INFO 12700 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:30:06.488+09:00  INFO 12700 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 659 ms
+2024-02-15T15:30:06.926+09:00  INFO 12700 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:30:06.932+09:00  INFO 12700 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.415 seconds (process running for 1.633)
+2024-02-15T15:30:07.139+09:00  INFO 12700 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:30:07.139+09:00  INFO 12700 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:30:07.139+09:00  INFO 12700 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T15:30:43.377+09:00  INFO 13668 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 13668 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:30:43.378+09:00  INFO 13668 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:30:44.027+09:00  INFO 13668 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:30:44.035+09:00  INFO 13668 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:30:44.036+09:00  INFO 13668 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:30:44.079+09:00  INFO 13668 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:30:44.079+09:00  INFO 13668 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 668 ms
+2024-02-15T15:30:44.522+09:00  INFO 13668 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:30:44.530+09:00  INFO 13668 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.448 seconds (process running for 1.656)
+2024-02-15T15:30:44.571+09:00  INFO 13668 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:30:44.571+09:00  INFO 13668 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:30:44.572+09:00  INFO 13668 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:30:44.654+09:00  WARN 13668 --- [http-nio-80-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; For input string: "3;"]
+2024-02-15T15:30:47.227+09:00  WARN 13668 --- [http-nio-80-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; For input string: "3;"]
+2024-02-15T15:31:11.522+09:00  INFO 11604 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 11604 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:31:11.524+09:00  INFO 11604 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:31:12.186+09:00  INFO 11604 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:31:12.194+09:00  INFO 11604 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:31:12.194+09:00  INFO 11604 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:31:12.239+09:00  INFO 11604 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:31:12.239+09:00  INFO 11604 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 681 ms
+2024-02-15T15:31:12.674+09:00  INFO 11604 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:31:12.681+09:00  INFO 11604 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.451 seconds (process running for 1.664)
+2024-02-15T15:31:14.422+09:00  INFO 11604 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:31:14.422+09:00  INFO 11604 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:31:14.423+09:00  INFO 11604 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:31:16.138+09:00  WARN 11604 --- [http-nio-80-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; For input string: "3;"]
+2024-02-15T15:31:22.672+09:00  INFO 8984 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 8984 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:31:22.674+09:00  INFO 8984 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:31:23.316+09:00  INFO 8984 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:31:23.324+09:00  INFO 8984 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:31:23.324+09:00  INFO 8984 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:31:23.369+09:00  INFO 8984 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:31:23.370+09:00  INFO 8984 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 663 ms
+2024-02-15T15:31:23.797+09:00  INFO 8984 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:31:23.804+09:00  INFO 8984 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.407 seconds (process running for 1.611)
+2024-02-15T15:31:30.112+09:00  INFO 8984 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:31:30.112+09:00  INFO 8984 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:31:30.112+09:00  INFO 8984 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T15:32:02.259+09:00  INFO 1072 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 1072 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:32:02.261+09:00  INFO 1072 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:32:02.924+09:00  INFO 1072 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:32:02.932+09:00  INFO 1072 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:32:02.933+09:00  INFO 1072 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:32:02.976+09:00  INFO 1072 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:32:02.976+09:00  INFO 1072 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 680 ms
+2024-02-15T15:32:03.408+09:00  INFO 1072 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:32:03.414+09:00  INFO 1072 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.435 seconds (process running for 1.665)
+2024-02-15T15:32:05.365+09:00  INFO 1072 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:32:05.365+09:00  INFO 1072 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:32:05.366+09:00  INFO 1072 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T15:42:55.190+09:00  INFO 12836 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 12836 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:42:55.192+09:00  INFO 12836 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:42:55.833+09:00  INFO 12836 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:42:55.842+09:00  INFO 12836 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:42:55.842+09:00  INFO 12836 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:42:55.886+09:00  INFO 12836 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:42:55.886+09:00  INFO 12836 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 662 ms
+2024-02-15T15:42:56.331+09:00  INFO 12836 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:42:56.338+09:00  INFO 12836 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.435 seconds (process running for 1.647)
+2024-02-15T15:43:01.127+09:00  INFO 12836 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:43:01.128+09:00  INFO 12836 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:43:01.128+09:00  INFO 12836 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T15:43:45.252+09:00  INFO 8832 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 8832 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:43:45.254+09:00  INFO 8832 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:43:45.932+09:00  INFO 8832 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:43:45.941+09:00  INFO 8832 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:43:45.941+09:00  INFO 8832 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:43:45.989+09:00  INFO 8832 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:43:45.989+09:00  INFO 8832 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 703 ms
+2024-02-15T15:43:46.438+09:00  INFO 8832 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:43:46.444+09:00  INFO 8832 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.476 seconds (process running for 1.684)
+2024-02-15T15:43:58.302+09:00  INFO 1100 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 1100 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:43:58.304+09:00  INFO 1100 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:43:58.976+09:00  INFO 1100 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:43:58.984+09:00  INFO 1100 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:43:58.984+09:00  INFO 1100 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:43:59.030+09:00  INFO 1100 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:43:59.031+09:00  INFO 1100 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 698 ms
+2024-02-15T15:43:59.467+09:00  INFO 1100 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:43:59.474+09:00  INFO 1100 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.478 seconds (process running for 1.688)
+2024-02-15T15:43:59.744+09:00  INFO 1100 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:43:59.744+09:00  INFO 1100 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:43:59.745+09:00  INFO 1100 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:44:24.184+09:00  INFO 7644 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 7644 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:44:24.186+09:00  INFO 7644 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:44:24.851+09:00  INFO 7644 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:44:24.860+09:00  INFO 7644 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:44:24.860+09:00  INFO 7644 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:44:24.904+09:00  INFO 7644 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:44:24.904+09:00  INFO 7644 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 677 ms
+2024-02-15T15:44:25.340+09:00  INFO 7644 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:44:25.346+09:00  INFO 7644 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.454 seconds (process running for 1.679)
+2024-02-15T15:44:25.422+09:00  INFO 7644 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:44:25.422+09:00  INFO 7644 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:44:25.423+09:00  INFO 7644 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T15:44:46.591+09:00  INFO 4136 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 4136 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:44:46.593+09:00  INFO 4136 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:44:47.261+09:00  INFO 4136 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:44:47.269+09:00  INFO 4136 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:44:47.269+09:00  INFO 4136 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:44:47.313+09:00  INFO 4136 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:44:47.313+09:00  INFO 4136 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 683 ms
+2024-02-15T15:44:47.751+09:00  INFO 4136 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:44:47.757+09:00  INFO 4136 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.445 seconds (process running for 1.655)
+2024-02-15T15:44:50.513+09:00  INFO 4136 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:44:50.513+09:00  INFO 4136 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:44:50.515+09:00  INFO 4136 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-02-15T15:49:37.066+09:00  INFO 8664 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 8664 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:49:37.068+09:00  INFO 8664 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:49:37.713+09:00  INFO 8664 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:49:37.721+09:00  INFO 8664 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:49:37.721+09:00  INFO 8664 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:49:37.765+09:00  INFO 8664 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:49:37.765+09:00  INFO 8664 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 662 ms
+2024-02-15T15:49:38.202+09:00  INFO 8664 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:49:38.209+09:00  INFO 8664 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.445 seconds (process running for 1.658)
+2024-02-15T15:49:38.322+09:00  INFO 8664 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:49:38.322+09:00  INFO 8664 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:49:38.323+09:00  INFO 8664 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:50:21.345+09:00  INFO 12992 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 12992 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:50:21.347+09:00  INFO 12992 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:50:21.987+09:00  INFO 12992 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:50:21.994+09:00  INFO 12992 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:50:21.995+09:00  INFO 12992 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:50:22.039+09:00  INFO 12992 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:50:22.040+09:00  INFO 12992 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 660 ms
+2024-02-15T15:50:22.477+09:00  INFO 12992 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:50:22.484+09:00  INFO 12992 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.437 seconds (process running for 1.647)
+2024-02-15T15:50:22.682+09:00  INFO 12992 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:50:22.682+09:00  INFO 12992 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:50:22.682+09:00  INFO 12992 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T15:50:25.285+09:00  WARN 12992 --- [http-nio-80-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-02-15T15:50:44.820+09:00  INFO 13560 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 13560 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:50:44.822+09:00  INFO 13560 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:50:45.471+09:00  INFO 13560 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:50:45.480+09:00  INFO 13560 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:50:45.480+09:00  INFO 13560 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:50:45.524+09:00  INFO 13560 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:50:45.524+09:00  INFO 13560 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 669 ms
+2024-02-15T15:50:45.981+09:00  INFO 13560 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:50:45.988+09:00  INFO 13560 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.459 seconds (process running for 1.684)
+2024-02-15T15:50:48.557+09:00  INFO 13560 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:50:48.557+09:00  INFO 13560 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:50:48.558+09:00  INFO 13560 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:54:51.311+09:00  INFO 12456 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 12456 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:54:51.313+09:00  INFO 12456 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:54:51.942+09:00  INFO 12456 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:54:51.950+09:00  INFO 12456 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:54:51.951+09:00  INFO 12456 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:54:51.995+09:00  INFO 12456 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:54:51.995+09:00  INFO 12456 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 651 ms
+2024-02-15T15:54:52.427+09:00  INFO 12456 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:54:52.434+09:00  INFO 12456 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.4 seconds (process running for 1.626)
+2024-02-15T15:54:55.329+09:00  INFO 12456 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:54:55.329+09:00  INFO 12456 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:54:55.329+09:00  INFO 12456 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-02-15T15:54:56.036+09:00  WARN 12456 --- [http-nio-80-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-02-15T15:56:03.933+09:00  INFO 12748 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 12748 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:56:03.935+09:00  INFO 12748 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:56:04.599+09:00  INFO 12748 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:56:04.608+09:00  INFO 12748 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:56:04.608+09:00  INFO 12748 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:56:04.652+09:00  INFO 12748 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:56:04.652+09:00  INFO 12748 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 686 ms
+2024-02-15T15:56:05.107+09:00  INFO 12748 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:56:05.117+09:00  INFO 12748 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.464 seconds (process running for 1.672)
+2024-02-15T15:56:06.315+09:00  INFO 12748 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:56:06.315+09:00  INFO 12748 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:56:06.316+09:00  INFO 12748 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:56:07.131+09:00  WARN 12748 --- [http-nio-80-exec-4] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-02-15T15:56:07.737+09:00  WARN 12748 --- [http-nio-80-exec-5] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' is not supported]
+2024-02-15T15:56:44.033+09:00  INFO 6676 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 6676 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:56:44.035+09:00  INFO 6676 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:56:44.708+09:00  INFO 6676 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:56:44.717+09:00  INFO 6676 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:56:44.717+09:00  INFO 6676 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:56:44.761+09:00  INFO 6676 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:56:44.761+09:00  INFO 6676 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 692 ms
+2024-02-15T15:56:45.194+09:00  INFO 6676 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:56:45.201+09:00  INFO 6676 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.452 seconds (process running for 1.667)
+2024-02-15T15:56:47.639+09:00  INFO 6676 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:56:47.639+09:00  INFO 6676 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:56:47.640+09:00  INFO 6676 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:56:48.882+09:00  WARN 6676 --- [http-nio-80-exec-7] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type Integer is present but converted to null]
+2024-02-15T15:56:52.753+09:00  WARN 6676 --- [http-nio-80-exec-10] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type Integer is present but converted to null]
+2024-02-15T15:57:09.668+09:00  INFO 13028 --- [main] com.projectajax.ProjectajaxApplication   : Starting ProjectajaxApplication using Java 17.0.9 with PID 13028 (C:\Users\504\Desktop\projectajax\build\classes\java\main started by 504 in C:\Users\504\Desktop\projectajax)
+2024-02-15T15:57:09.670+09:00  INFO 13028 --- [main] com.projectajax.ProjectajaxApplication   : No active profile set, falling back to 1 default profile: "default"
+2024-02-15T15:57:10.346+09:00  INFO 13028 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 80 (http)
+2024-02-15T15:57:10.355+09:00  INFO 13028 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-02-15T15:57:10.355+09:00  INFO 13028 --- [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.18]
+2024-02-15T15:57:10.400+09:00  INFO 13028 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-02-15T15:57:10.400+09:00  INFO 13028 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 699 ms
+2024-02-15T15:57:10.839+09:00  INFO 13028 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 80 (http) with context path ''
+2024-02-15T15:57:10.845+09:00  INFO 13028 --- [main] com.projectajax.ProjectajaxApplication   : Started ProjectajaxApplication in 1.477 seconds (process running for 1.7)
+2024-02-15T15:57:11.048+09:00  INFO 13028 --- [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-15T15:57:11.048+09:00  INFO 13028 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-02-15T15:57:11.049+09:00  INFO 13028 --- [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-02-15T15:57:11.105+09:00  WARN 13028 --- [http-nio-80-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required request parameter 'i' for method parameter type Integer is present but converted to null]
